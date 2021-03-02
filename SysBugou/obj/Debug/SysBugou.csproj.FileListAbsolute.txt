@@ -1,0 +1,10 @@
+C:\Users\luiz.bpereira\source\Workspaces\MyFirstProject\SysBugou\SysBugou\SysBugou\bin\Debug\SysBugou.exe.config
+C:\Users\luiz.bpereira\source\Workspaces\MyFirstProject\SysBugou\SysBugou\SysBugou\bin\Debug\SysBugou.exe
+C:\Users\luiz.bpereira\source\Workspaces\MyFirstProject\SysBugou\SysBugou\SysBugou\bin\Debug\SysBugou.pdb
+C:\Users\luiz.bpereira\source\Workspaces\MyFirstProject\SysBugou\SysBugou\SysBugou\obj\Debug\SysBugou.csprojAssemblyReference.cache
+C:\Users\luiz.bpereira\source\Workspaces\MyFirstProject\SysBugou\SysBugou\SysBugou\obj\Debug\SysBugou.FormMenu.resources
+C:\Users\luiz.bpereira\source\Workspaces\MyFirstProject\SysBugou\SysBugou\SysBugou\obj\Debug\SysBugou.Properties.Resources.resources
+C:\Users\luiz.bpereira\source\Workspaces\MyFirstProject\SysBugou\SysBugou\SysBugou\obj\Debug\SysBugou.csproj.GenerateResource.cache
+C:\Users\luiz.bpereira\source\Workspaces\MyFirstProject\SysBugou\SysBugou\SysBugou\obj\Debug\SysBugou.csproj.CoreCompileInputs.cache
+C:\Users\luiz.bpereira\source\Workspaces\MyFirstProject\SysBugou\SysBugou\SysBugou\obj\Debug\SysBugou.exe
+C:\Users\luiz.bpereira\source\Workspaces\MyFirstProject\SysBugou\SysBugou\SysBugou\obj\Debug\SysBugou.pdb
